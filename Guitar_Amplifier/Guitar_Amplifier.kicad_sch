@@ -2025,6 +2025,17 @@
 		)
 		(uuid "f8f75d5a-3ee6-4b9d-8f36-b33b93d54811")
 	)
+	(label "Vout"
+		(at 144.78 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "31806cc6-d74a-42b7-8ca6-ccea54dad157")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 144.78 115.57 0)
